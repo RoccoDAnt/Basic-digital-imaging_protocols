@@ -1,4 +1,4 @@
-# Basic digital image design, processing, analysis, management, and presentation - datasets and code
+# Basic Digital Image Acquisition, Design, Processing, Analysis, Management, and Presentation - datasets and code
 
 This repository contains protocols and links to data sets used in:
 
